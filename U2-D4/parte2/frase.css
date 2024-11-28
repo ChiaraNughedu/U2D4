@@ -45,7 +45,6 @@ main {
   top: 40;
   right: 110px;
   left: 100;
-  color: transparent;
   animation-name: span;
   animation-duration: 4s;
   animation-timing-function: linear;
@@ -53,15 +52,14 @@ main {
   animation-delay: 0s;
 }
 .parole i {
-    justify-content: end;
-    flex-direction: column;
+  justify-content: end;
+  flex-direction: column;
 }
 #word1 {
-    animation-delay: 0s;
+  animation-delay: 0s;
 }
 #word2 {
   animation-delay: 2s;
-  
 }
 
 #word3 {
@@ -72,11 +70,11 @@ main {
 @keyframes span {
   from {
     color: rgb(91, 91, 177);
-    top:50px;
+    top: 50px;
   }
 
- 50% {
-    color: rgb(91, 91, 177); 
+  50% {
+    color: rgb(91, 91, 177);
     top: 60px;
   }
 
