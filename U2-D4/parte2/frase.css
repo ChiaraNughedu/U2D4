@@ -50,11 +50,10 @@ main {
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   animation-delay: 0s;
-}
-.parole {
   justify-content: end;
   flex-direction: column;
 }
+
 #word1 {
   animation-delay: 0s;
 }
