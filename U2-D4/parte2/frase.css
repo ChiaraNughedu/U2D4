@@ -56,9 +56,11 @@ main {
 
 #word1 {
   animation-delay: 0s;
+  animation-iteration-count: infinite;
 }
 #word2 {
   animation-delay: 2s;
+  animation-iteration-count: infinite;
 }
 
 #word3 {
